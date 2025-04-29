@@ -7,16 +7,38 @@
 ---
 
 ## 🌐 About Me
+I am driven to create software that **performs under pressure** and provides real value. My work focuses on crafting the core engines and interfaces that make applications powerful and user-friendly.
 
-I'm an engineer who loves to build. My journey began with control systems, teaching me how intricate parts work together to achieve a goal. Now, I apply that systems-level thinking to software development.
+Here are some key areas I focus on building:
 
-My interests and expertise lie in:
+<p align="center">
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Scalable%20Architecture-000000?style=for-the-badge&logoColor=white&logo=amazonaws" alt="Scalable Architecture Badge"/>
+  </a>
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Backend%20Engineering-0056B3?style=for-the-badge&logoColor=white&logo=dotnet" alt="Backend Engineering Badge"/>
+  </a>
+   <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Cloud%20%26%20IaC-000000?style=for-the-badge&logoColor=white&logo=terraform" alt="Cloud & IaC Badge"/>
+  </a>
+   <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Application%20Development-0056B3?style=for-the-badge&logoColor=white&logo=angular" alt="Application Development Badge"/>
+  </a>
+   <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Reliability%20%26%20Performance-000000?style=for-the-badge&logoColor=white&logo=speedtest" alt="Reliability & Performance Badge"/>
+  </a>
+   <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/-Control%20Systems%20Mindset-0056B3?style=for-the-badge&logoColor=white&logo=c++" alt="Control Systems Mindset Badge"/> <!-- Using C++ logo as a generic engineering/control icon -->
+  </a>
+</p>
 
-*   **Backend Architecture & Development:** Designing and implementing reliable APIs and services.
-*   **Cloud & Scalability:** Building systems that perform under pressure using AWS and IaC.
-*   **Desktop Applications:** Crafting user-friendly experiences with frameworks like JavaFX.
-*   **Frontend Development:** Creating dynamic and responsive web interfaces with modern frameworks.
-*   **Solving Complex Problems:** Taking on challenging engineering tasks across the stack.
+<p align="center">
+  
+</p>
+
+
+---
+
 
 ---
 
