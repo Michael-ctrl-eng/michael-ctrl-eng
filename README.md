@@ -4,11 +4,6 @@
   <h1>👋 Hi There! I'm Michael (Michael-ctrl-eng)</h1>
 </div>
 
-<p align="center">
-  Control Systems Engineering background powering a passion for building robust, scalable, and innovative software.<br>
-  I specialize in bringing complex systems to life, from high-traffic cloud architectures to polished applications.
-</p>
-
 ---
 
 ## 🌐 About Me
